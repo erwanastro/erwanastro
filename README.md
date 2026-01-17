@@ -22,11 +22,5 @@ I work mainly on **SaaS platforms, APIs and complex business applications**, wit
 
 ## Open Source Projects
 
-- [**Markdown Presentation Online Editor**](https://github.com/erwanastro/markdown-presentation-online-editor):
-a modern, lightweight presentation editor that transforms Markdown files into beautiful interactive slideshows using [Reveal.js](https://github.com/hakimel/reveal.js/).
-
-- [**Agile Planning Poker**](https://github.com/erwanastro/Agile-Poker-Planning):
-Agile Poker Planner is a serverless application for collaborative estimations which provides a clean and intuitive interface for agile development teams to conduct planning poker sessions.
-
 - [**Ollama OpenWebUI Launcher**](https://github.com/erwanastro/ollama-openwebui-launcher):
 a simple desktop launcher and system tray application for Ollama and Open-WebUI services on Linux.
