@@ -22,5 +22,7 @@ I work mainly on **SaaS platforms, APIs and complex business applications**, wit
 
 ## Open Source Projects
 
+- [**Cartographie Logements Sociaux**](https://github.com/erwanastro/cartographie-logemements-sociaux):
+a simple app allowing the creation of interactive maps of social housing in France.
 - [**Ollama OpenWebUI Launcher**](https://github.com/erwanastro/ollama-openwebui-launcher):
 a simple desktop launcher and system tray application for Ollama and Open-WebUI services on Linux.
